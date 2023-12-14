@@ -1,6 +1,5 @@
 unstructured
 tiktoken
-pinecone-client
 pypdf
 openai
 langchain
