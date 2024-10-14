@@ -6,7 +6,7 @@ from langserve import add_routes
 import os
 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 
